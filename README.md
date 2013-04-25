@@ -12,4 +12,4 @@ Projekt - diagram sekwencji (sequence diagram)
 
 2) Wykonaj ćwiczenia zawarte w załączonych plikach i umieść je w repozytorium w postaci plików graficznych.
 
-3) Do swojego projektu dołącz diagramy sekwencji przedstawiające przepływ sterowania dla dwóch kluczowych akcji w systemie.
+3) Do swojego projektu dołącz diagramy sekwencji (w postaci plików graficznych jak i plików projektu) przedstawiające przepływ sterowania dla dwóch kluczowych akcji w systemie.
